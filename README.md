@@ -1,16 +1,15 @@
-### Hi there 👋
+[![Hello](https://github.com/Tarmiel/Tarmiel/blob/master/ezgif.com-resize.gif)](https://tarmiel.github.io/Portfolio/)
 
-<!--
-**Tarmiel/Tarmiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oi, eu sou o Lucas! 🇧🇷.
 
-Here are some ideas to get you started:
+Estudante do 5° semestre de Análise e Desenvolvimento de Sistemas pela FIC.
+Fortaleza - CE.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Lucas GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Tarmiel&show_icons=true&hide_border=true)
+
+<a href="https://github.com/Tarmiel/PJ_web">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Tarmiel&repo=PJ_web" />
+</a>
+<a href="https://github.com/Tarmiel/Portfolio">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Tarmiel&repo=Portfolio" />
+</a>
