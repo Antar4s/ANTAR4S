@@ -11,5 +11,6 @@
  Oi, eu sou o Lucas! 🇧🇷
 
  Estudante do 5° semestre de Análise e Desenvolvimento de Sistemas pela FIC. 
+ <hr>
 
 ![Lucas GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Tarmiel&show_icons=true&hide_border=true)
