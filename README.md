@@ -1,4 +1,4 @@
-# Lucas Mesquita :octocat:
+# Lucas Mesquita:octocat:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Tarmiel)](https://github.com/Tarmiel)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-orange?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/Tarmiel)](https://www.instagram.com/lul_cao/)
