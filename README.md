@@ -17,5 +17,5 @@
 
 # 
 
-![Lucas GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Tarmiel&show_icons=true&hide_border=true&theme=tokyonight)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarmiel&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarmiel&layout=compact&theme=tokyonight)](https://github.com/Tarmiel)
