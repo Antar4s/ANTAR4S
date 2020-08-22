@@ -10,4 +10,6 @@
 
  Estudante do 6° semestre de Análise e Desenvolvimento de Sistemas pela FIC. 
 # 
-![Lucas GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Tarmiel&show_icons=true&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarmiel&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![Lucas GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Tarmiel&show_icons=true&hide_border=true&theme=gruvbox)
