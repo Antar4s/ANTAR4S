@@ -22,14 +22,9 @@
 
 <hr>
 
-<div width="400">
- aaaaaaaaaaa
-</div>
-
-<div width="400">
+<p align="right" height="200">
  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=heimdallr0&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=heimdallr0&redirect=true)
 
 </p>
 
-</div>
