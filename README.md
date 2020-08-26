@@ -15,8 +15,6 @@
  Estudante do 6° semestre de Análise e Desenvolvimento de Sistemas pela FIC. 
 </p>
 
-# 
-
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarmiel&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarmiel&layout=compact&theme=tokyonight)](https://github.com/Tarmiel)
 
