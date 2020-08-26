@@ -22,13 +22,12 @@
 
 <hr>
 
-<div width="400px">
- 
+<div width="400">
+ aaaaaaaaaaa
 </div>
 
-<div width="400px">
-<p align="center"
-
+<div width="400">
+ 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=heimdallr0&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=heimdallr0&redirect=true)
 
 </p>
