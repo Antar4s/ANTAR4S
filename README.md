@@ -23,6 +23,7 @@
 <hr>
 
 <p align="center">
+ 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=heimdallr0&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=heimdallr0&redirect=true)
 
 </p>
