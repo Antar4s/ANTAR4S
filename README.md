@@ -1,5 +1,3 @@
-<h1 align="center">Lucas Mesquita:octocat: </h1>
-
 <h4 align="center">
  
 [![Hello](https://github.com/Tarmiel/Tarmiel/blob/master/ezgif.com-resize.gif)](https://tarmiel.github.io/Portfolio/)
