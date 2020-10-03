@@ -15,12 +15,12 @@
  
 </p>
 
-#
+<hr>
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarmiel&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarmiel&layout=compact&theme=tokyonight)](https://github.com/Tarmiel)
 
-#
+<hr>
 
 <p align="center"
  
