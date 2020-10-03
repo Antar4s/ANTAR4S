@@ -11,8 +11,7 @@
  Olá, eu sou o Lucas! 🇧🇷
  <br>
  Estudante do 6° semestre de Análise e Desenvolvimento de Sistemas pela FIC. 
-<h3 align="center">:space_invader: Aprendiz de back-end :space_invader: </h3>
- 
+<h4 align="center">:space_invader: 'Aprendiz' de back-end :space_invader: </h4>
  
 </p>
 
