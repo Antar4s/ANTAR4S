@@ -8,10 +8,12 @@
 </h4>
 
 <p align="center">
+ 
 Olá, eu sou o Lucas! 🇧🇷
+ 
 <br>
  
-Estudante do 6° semestre de Análise e Desenvolvimento de Sistemas pela FIC.
+ Estudante do 6° semestre de Análise e Desenvolvimento de Sistemas pela FIC.
  
 </p>
 
