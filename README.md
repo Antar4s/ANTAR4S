@@ -21,10 +21,3 @@ Olá, eu sou o Lucas! 🇧🇷
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarmiel&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarmiel&layout=compact&theme=tokyonight)](https://github.com/Tarmiel)
 
-<hr>
-
-<p align="center"
- 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=heimdallr0&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=heimdallr0&redirect=true)
-</p>
-
