@@ -2,7 +2,7 @@
  
 ![Hello](https://i.imgur.com/p4vnGAN.gif)
 
-<br>
+<hr>
 
 [![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/Tarmiel)](https://www.facebook.com/WillisPanelinha/)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/Tarmiel)](https://www.instagram.com/lul_cao/)
