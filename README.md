@@ -15,7 +15,6 @@
 Olá, eu sou o Lucas! 🇧🇷
 <br>
  Estudante do 6° semestre de Análise e Desenvolvimento de Sistemas pela FIC <br>
- e estágiario de Modelagem pela CRC - Central de Recuperação de Créditos.
 </h3>
 
 <br>
