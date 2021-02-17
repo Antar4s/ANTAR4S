@@ -14,7 +14,8 @@
  <br>
 Olá, eu sou o Lucas! 🇧🇷
 <br>
- Estudante do 6° semestre de Análise e Desenvolvimento de Sistemas pela FIC <br>
+ Estudante do 7° semestre de Análise e Desenvolvimento de Sistemas pela FIC <br>
+ Focando meus estudos em desenvolvimento back-end. =)
 </h3>
 
 <br>
