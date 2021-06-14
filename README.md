@@ -12,10 +12,10 @@
 
 <h3 align="center">
  <br>
-Olá, eu sou o Lucas! 🇧🇷
+Olá, boas-vindas, eu sou o Lucas! 🇧🇷
 <br>
- Estudante do 7° semestre de Análise e Desenvolvimento de Sistemas pela FIC. <br>
- Focando meus estudos em desenvolvimento back-end. =)
+ Estudante de Análise e Desenvolvimento de Sistemas pela FIC<br>
+ Fique à vontade para explorar =)
 </h3>
 
 <br>
@@ -23,3 +23,11 @@ Olá, eu sou o Lucas! 🇧🇷
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarmiel&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarmiel&layout=compact&theme=tokyonight)](https://github.com/Tarmiel)
 
+</br>
+
+<h5 align="center">
+
+_"Estou vagando pelo monte entre as estrelas </br>
+E não tenho mais lugar ao céu"_
+
+</h5>
