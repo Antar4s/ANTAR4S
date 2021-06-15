@@ -10,13 +10,15 @@
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/Tarmiel)](https://open.spotify.com/user/Heimdallr0?fbclid=IwAR0vLf9kXegU7iZNCy3IJ1S6vb3sJ6CRRXelpW5tDOG5trSUGZ8SK4-Yjfg)
 </h4>
 
-<h3 align="center">
+<h4 align="center">
  <br>
 Olá, boas-vindas, eu sou o Lucas! 🇧🇷
-<br>
+ 
+</br>
+ 
  Estudante de Análise e Desenvolvimento de Sistemas pela FIC<br>
  Fique à vontade para explorar =)
-</h3>
+</h4>
 
 <br>
 
