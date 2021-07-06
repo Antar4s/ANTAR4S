@@ -16,7 +16,7 @@ Olá, boas-vindas, eu sou o Lucas! 🇧🇷
  
 </br>
  
- Estudante de Análise e Desenvolvimento de Sistemas pela FIC
+ Estudante de Análise e Desenvolvimento de Sistemas pela FIC.
  
  </br>
  Fique à vontade para explorar =)
