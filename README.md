@@ -11,7 +11,6 @@
 </h4>
 
 <h3 align="center">
- </br>
 Olá, boas-vindas, eu sou o Lucas! 🇧🇷
  
 </br>
