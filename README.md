@@ -11,15 +11,9 @@
 </h4>
 
 <h3 align="center">
-Olá, boas-vindas, eu sou o Lucas! 🇧🇷
- 
-</br>
- 
- Estudante de Análise e Desenvolvimento de Sistemas pela FIC.
- 
- 
- </br>
- Fique à vontade para explorar =)
+Hi, welcome, I'm Lucas! 🇧🇷 </br>
+Student of Systems Analysis and Development at FIC. </br> </br>
+Feel free to explore =)
 </h3>
 
 <br>
