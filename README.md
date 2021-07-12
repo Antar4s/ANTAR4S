@@ -18,6 +18,7 @@ Olá, boas-vindas, eu sou o Lucas! 🇧🇷
  
  Estudante de Análise e Desenvolvimento de Sistemas pela FIC.
  
+ 
  </br>
  Fique à vontade para explorar =)
 </h3>
@@ -29,7 +30,8 @@ Olá, boas-vindas, eu sou o Lucas! 🇧🇷
 
 <h5 align="center">
 
-_"Estou vagando pelo monte entre as estrelas </br>
-E não tenho mais lugar ao céu"_
+"_Estou vagando pelo monte entre as estrelas </br>
+E não tenho mais lugar ao céu_" </br>
+~ Made in Fortalcity ~
 
 </h5>
