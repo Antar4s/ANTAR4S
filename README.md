@@ -17,8 +17,8 @@ Feel free to explore =)
 
 <br>
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarmiel&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarmiel&layout=compact&theme=dracula)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Antar4s&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antar4s&layout=compact&theme=dracula)
 
 <h5 align="center">
 
