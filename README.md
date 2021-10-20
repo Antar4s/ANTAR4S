@@ -1,8 +1,8 @@
 <!--- VISIT COUNTER -->
-<h4 align="center">
+<h3 align="center">
 
 ![Visitor Count](https://profile-counter.glitch.me/{Antar4s}/count.svg)
-</h4>
+</h3>
 
 
 <!--- GIF AND SOCIAL MEDIA --> 
@@ -18,7 +18,12 @@
 
 <!--- ABOUT ME -->
 <h3 align="center">
-    Hi, I'm Lucas. <br><br>
+    Hi, I'm Lucas. :dizzy:  <br>
     IT student and Data Science intern. <br>
     Feel free to explore.
 </h3>
+
+<br>
+
+![Antar4s's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antar4s&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antar4s&layout=compact&theme=radical)](https://github.com/Antar4s)
