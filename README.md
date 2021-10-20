@@ -1,3 +1,11 @@
+<!--- VISIT COUNTER -->
+<h1 align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/{Antar4s}/count.svg)
+</h1>
+
+
+<!--- GIF AND SOCIAL MEDIA --> 
 <h1 align="center">
 
 ![Welcome](https://github.com/Antar4s/ANTAR4S/blob/master/Assets/SuavementeLucas.gif?raw=true)
@@ -8,6 +16,7 @@
 </h1>
 
 
+<!--- ABOUT ME -->
 <h3 align="center">
     Hi, I'm Lucas. <br><br>
     IT student and Data Science intern. <br>
