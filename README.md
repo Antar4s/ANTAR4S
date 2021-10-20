@@ -18,7 +18,7 @@
 
 <!--- ABOUT ME -->
 <h3 align="center">
-    Hi, I'm Lucas. :dizzy:  <br>
+    Hi, I'm Lucas. :brazil:  <br>
     IT student and Data Science intern. <br>
     Feel free to explore.
 </h3>
