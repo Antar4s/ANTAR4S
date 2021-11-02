@@ -27,4 +27,4 @@
 
 <!--- GITHUB STATS -->
 ![Antar4s's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antar4s&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antar4s&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antar4s&show_icons=true&theme=radical)
