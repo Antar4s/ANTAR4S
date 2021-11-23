@@ -1,9 +1,11 @@
 <!--- VISIT COUNTER -->
 <h3 align="center">
 
+<!--
 ![Visitor Count](https://profile-counter.glitch.me/{Antar4s}/count.svg)
 </h3>
-
+-->
+    
 <!--- GIF AND SOCIAL MEDIA --> 
 <h3 align="center">
 
