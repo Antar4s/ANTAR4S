@@ -11,8 +11,8 @@
 <!--- ABOUT ME -->
 <h3 align="center">
     Hi, I'm Lucas. :dizzy:  <br>
-    IT student focused on Data Science. <br>
-    Feel free to explore.
+    IT student focused on Data Science,
+    feel free to explore.
 </h3>
 
 <!-- BREAK ROW-->
