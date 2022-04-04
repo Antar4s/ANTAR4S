@@ -11,8 +11,9 @@
 <!--- ABOUT ME -->
 <h3 align="center">
     Hi, I'm Lucas. :dizzy:  <br>
-    IT student focused on Data Science,
-    feel free to explore.
+    IT student and passionate about data analysis, <br>
+    currently focusing my studies on Machine Learning and Data Engineering. <br>
+    FEEL FREE TO EXPLORE.
 </h3>
 
 <!-- BREAK ROW-->
