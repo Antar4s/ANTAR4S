@@ -10,10 +10,11 @@
 
 <!--- ABOUT ME -->
 <h3 align="center">
-    Hi, I'm Lucas. :dizzy:  <br>
-    IT student and passionate about data analysis, <br>
-    currently focusing my studies on Machine Learning and Data Engineering. <br>
-    FEEL FREE TO EXPLORE.
+    Oopa, eu sou o Lucas. =) <br>
+    Estudante de T.I e apaixonado por análise de dados, <br>
+    focando meus estudos em Machine Learning e Engenharia de Dados. <br>
+    Aqui você encontrará conteúdos referentes à Python, SQL, Power BI, dentro outros projetos pessoais. <br>
+    SINTA-SE LIVRE PARA EXPLORAR !
 </h3>
 
 <!-- BREAK ROW-->
