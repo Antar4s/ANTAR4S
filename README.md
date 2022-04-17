@@ -22,5 +22,5 @@
 
 <!--- GITHUB STATS AND FOOTER -->
 ![Antar4s's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antar4s&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antar4s&theme=radical)](https://github.com/Antar4s/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antar4s&theme=radical)]
 
