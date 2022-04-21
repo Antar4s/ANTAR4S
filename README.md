@@ -11,8 +11,7 @@
 <!--- ABOUT ME -->
 <h3 align="center">
     Oopa, eu sou o Lucas. =) <br>
-    Estudante de T.I e apaixonado por análise de dados, <br>
-    focando meus estudos em Machine Learning e Engenharia de Dados. <br>
+    Estudante de T.I e apaixonado por análise de dados. <br>
     Aqui você encontrará conteúdos referentes à Python, SQL, Power BI, dentro outros projetos pessoais. <br>
     SINTA-SE LIVRE PARA EXPLORAR !
 </h3>
