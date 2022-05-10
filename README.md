@@ -8,6 +8,11 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Antar4s)
 </h3>
 
+
+<img height="192em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Antar4s&theme=monokai"> <img height="192em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Antar4s&theme=monokai">
+
+
+
 <!--- ABOUT ME -->
 <h3 align="center">
     OOPA, EU SOU O LUCAS =) <br>
