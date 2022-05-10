@@ -15,7 +15,7 @@
 <!--- ABOUT ME -->
 <h3 align="center">
 Oopa, Eu sou o Lucas =) <br>
-Estudante de T.i e apaixonado por Análise de Dados. <br>
+Estudante de T.I e apaixonado por Análise de Dados. <br>
 Aqui você encontrará conteúdos referentes à Python, SQL, Power Bi, dentre outros. <br> <br>
     
         Sinta-se Livre para Explorar !
@@ -26,6 +26,6 @@ Aqui você encontrará conteúdos referentes à Python, SQL, Power Bi, dentre ou
 <!--- GITHUB STATS AND FOOTER -->
 <div>
 <a href="https://github.com/Antar4s">
-<img height="192em" src="https://github-readme-stats.vercel.app/api?username=Antar4s&show_icons=true&theme=radical" />
-<img height="192em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antar4s&langs_count=5&theme=radical&count_private=true&hide=html" /> 
+<img height="192em" src="https://github-readme-stats.vercel.app/api?username=Antar4s&show_icons=true&theme=synthwave" />
+<img height="192em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antar4s&langs_count=5&theme=synthwave&count_private=true&hide=html" /> 
 </div>
