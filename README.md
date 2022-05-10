@@ -9,7 +9,7 @@
 </h3>
 
 
-<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Antar4s&theme=monokai"> <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Antar4s&theme=monokai">
+<img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Antar4s&theme=monokai"> <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Antar4s&theme=monokai">
 
 
 
