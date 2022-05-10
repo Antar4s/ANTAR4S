@@ -8,21 +8,20 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Antar4s)
 </h3>
 
-
+<!-- 
 <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Antar4s&theme=tokyonight"> <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Antar4s&theme=tokyonight">
-
-
+-->
 
 <!--- ABOUT ME -->
 <h3 align="center">
-    OOPA, EU SOU O LUCAS =) <br>
-    ESTUDANTE DE T.I E APAIXONADO POR ANÁLISE DE DADOS. <br>
-    AQUI VOCÊ ENCONTRARÁ CONTEÚDOS REFERENTES À PYTHON, SQL, POWER BI, DENTRE OUTROS. <br> <br>
-    SINTA-SE LIVRE PARA EXPLORAR !
+Oopa, Eu sou o Lucas =) <br>
+Estudante de T.i e apaixonado por Análise de Dados. <br>
+Aqui você encontrará conteúdos referentes à Python, SQL, Power Bi, dentre outros. <br> <br>
+    
+        Sinta-se Livre para Explorar !
 </h3>
 
-<!-- BREAK ROW-->
-<br>
+<hr>
 
 <!--- GITHUB STATS AND FOOTER -->
 <div>
