@@ -14,9 +14,9 @@
 
 <!--- ABOUT ME -->
 <h3 align="center">
-Oopa, Eu sou o Lucas =) <br>
+Oopa, eu sou o Lucas =) <br>
 Estudante de T.I e apaixonado por Análise de Dados. <br>
-Aqui você encontrará conteúdos referentes à Python, SQL, Power Bi, dentre outros. <br> <br>
+Aqui você encontrará conteúdos referentes à Python, SQL, Power BI, dentre outros. <br> <br>
     
         Sinta-se Livre para Explorar !
 </h3>
