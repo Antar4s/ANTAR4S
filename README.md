@@ -16,7 +16,7 @@
 <!--- ABOUT ME -->
 <h3 align="center">
 Oopa, eu sou o Lucas =) <br>
-Estudante de T.I e apaixonado por Análise de Dados. <br>
+Formado em ADS, sou Analista de Dados Jr. <br>
 Aqui você encontrará conteúdos referentes à Python, SQL, Power BI, dentre outros. <br> <br>
     
         Sinta-se Livre para Explorar !
