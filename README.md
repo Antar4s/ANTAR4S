@@ -28,5 +28,5 @@ Aqui você encontrará conteúdos referentes à Python, SQL, Power BI, dentre ou
 <div>
 <a href="https://github.com/tonsatomicos">
 <img height="193em" src="https://github-readme-stats.vercel.app/api?username=tonsatomicos&show_icons=true&theme=synthwave" />
-<img height="193em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonsatomicos&langs_count=5&theme=synthwave&count_private=true&hide=html" /> 
+<img height="191em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonsatomicos&langs_count=5&theme=synthwave&count_private=true&hide=html" /> 
 </div>
