@@ -1,4 +1,3 @@
-<!-- HEADER -->
 <h3 align="center">
     
 ![Welcome](https://github.com/tonsatomicos/tonsatomicos/blob/master/Assets/SuavementeLucasAtt.gif?raw=true)    
@@ -9,22 +8,16 @@
 <!--[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Antar4s) -->
 </h3>
 
-<!-- 
-<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Antar4s&theme=tokyonight"> <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Antar4s&theme=tokyonight">
--->
-
-<!--- ABOUT ME -->
 <h3 align="center">
-Oopa, eu sou o Lucas =) <br>
-Formado em ADS, atuando como Analista de Dados Jr. <br>
-Aqui você encontrará conteúdos referentes à Python, SQL, Power BI, dentre outros. <br> <br>
+E ai, meu nome é Lucas, mas você pode me chamar de Mesquita =)<br>
+Formado em ADS, sou um Analista de Dados se virando nos 30.<br>
+Aqui você encontrará uns códigos e experiências com dados.<br> <br>
     
         Sinta-se Livre para Explorar !
 </h3>
 
 <hr>
 
-<!--- GITHUB STATS AND FOOTER -->
 <div>
 <a href="https://github.com/tonsatomicos">
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=tonsatomicos&show_icons=true&theme=synthwave" />
