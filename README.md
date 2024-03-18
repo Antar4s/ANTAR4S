@@ -21,5 +21,5 @@ Aqui você encontrará uns códigos e experiências com dados.<br> <br>
 <div>
 <a href="https://github.com/tonsatomicos">
 <img height="220em" src="https://github-readme-stats.vercel.app/api?username=tonsatomicos&show_icons=true&theme=synthwave" />
-<img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonsatomicos&langs_count=5&theme=synthwave&count_private=true&hide=html" /> 
+<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonsatomicos&langs_count=5&theme=synthwave&count_private=true&hide=html" /> 
 </div>
