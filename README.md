@@ -8,13 +8,13 @@
 <!--[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Antar4s) -->
 </h3>
 
-<h3 align="center">
+<h4 align="center">
 E ai, meu nome é Lucas, mas você pode me chamar de Mesquita =)<br>
-Formado em ADS, sou um Analista de Dados se virando nos 30.<br>
+Formado em ADS e cursando Pós em Engenharia de Dados, sou um Analista de Dados se virando nos 30.<br>
 Aqui você encontrará uns códigos e experiências com dados.<br> <br>
     
         Sinta-se Livre para Explorar !
-</h3>
+</h4>
 
 <hr>
 
