@@ -7,14 +7,14 @@
 
 # Opa, eu sou o Lucas <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="30" height="30"/>
 
-<img align="right" width="270px" style="margin-top: -20px;" src="https://i0.wp.com/metagalaxia.com.br/wp-content/uploads/2021/07/Optimized-Kobayashi-san-Chi-no-Maid-Dragon-S.jpg?fit=640%2C360&ssl=1"/>
+<img align="right" width="230px" style="margin-top: -20px;" src="https://i0.wp.com/metagalaxia.com.br/wp-content/uploads/2021/07/Optimized-Kobayashi-san-Chi-no-Maid-Dragon-S.jpg?fit=640%2C360&ssl=1"/>
 
-<H3>
+<H4>
    
  - Atuando como Analista de Dados
  - Mago SQL: Adaptador de Erros Sistêmicos
  - Formado em ADS
  - Cursando Pós em Engenharia de Dados
  - Aqui você encontrará uns códigos e experiências com dados
-</H3>
+</H4>
 
