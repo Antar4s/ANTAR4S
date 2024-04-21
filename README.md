@@ -16,7 +16,7 @@
 </h4>
 
 <div style="display: flex; align-items: center;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Alembic.png" alt="Robot" style="width: 100px; height: 100px; margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Alembic.png" alt="Robot" style="width:30px; height: 30px; margin-right: 20px;">
     <div style="text-align: center;">
         Robot Atuando como Analista de Dados
     </div>
