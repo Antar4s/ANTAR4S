@@ -12,7 +12,7 @@
 </H3>
 
 # Skills
-[![My Skills](https://skillicons.dev/icons?i=anaconda,docker,git,gitlab,postgres,python,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,docker,git,gitlab,linux,mongodb,mysql,postgres,python,terraform)](https://skillicons.dev)
 
 <hr>
 
