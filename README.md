@@ -17,10 +17,10 @@
 <hr>
 
 <div align="center">
-<H4>
+<H3>
    
         Sinta-se Livre para Explorar !
-</H4>
+</H3>
 </div>
         
 <div align="center">
