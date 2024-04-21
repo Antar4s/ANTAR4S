@@ -5,11 +5,10 @@
 <img align="right" width="220px" style="margin-top: -20px;" src="https://i0.wp.com/metagalaxia.com.br/wp-content/uploads/2021/07/Optimized-Kobayashi-san-Chi-no-Maid-Dragon-S.jpg?fit=640%2C360&ssl=1"/>
 
 <H3>
-   
- - Atuando como Analista de Dados
- - Adaptador de Erros Sistêmicos/SQL
- - Formado em ADS & cursando Pós em Engenharia de Dados
- - Aqui você encontrará uns códigos e experiências com dados
+:sunglasses: Atuando como Analista de Dados<br /> 
+:mage_man: Mago Adaptador de Erros Sistêmicos/SQL<br /> 
+:medal_sports: Formado em ADS & cursando Pós em Engenharia de Dados<br />
+:alembic: Aqui você encontrará uns códigos e experiências com dados<br />
 </H3>
 
 # Skills
