@@ -17,11 +17,11 @@
 
 <hr>
 
-<p align="center">
+<div align="center">
    
         Sinta-se Livre para Explorar !
    
-</p>
+</div>
         
 <div align="center">
    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=tonsatomicos&show_icons=true&theme=radical"/>
