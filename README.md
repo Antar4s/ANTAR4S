@@ -6,7 +6,7 @@
 
 <H3>
 :sunglasses: Atuando como Analista de Dados<br /> 
-:mage_man: Mago Adaptador de Erros Sistêmicos/SQL<br /> 
+:mage_man: Mago Adaptador de Erros Sistêmicos no SQL<br /> 
 :medal_sports: Formado em ADS & cursando Pós em Engenharia de Dados<br />
 :alembic: Aqui você encontrará uns códigos e experiências com dados<br />
 </H3>
