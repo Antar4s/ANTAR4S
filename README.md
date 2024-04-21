@@ -20,10 +20,9 @@
 <div align="center">
    
         Sinta-se Livre para Explorar !
-   
 </div>
         
 <div align="center">
-   <img height="195em" src="https://github-readme-stats.vercel.app/api?username=tonsatomicos&show_icons=true&theme=radical"/>
-   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonsatomicos&langs_count=5&theme=radical&count_private=true&hide=html"/>
+   <img height="196em" src="https://github-readme-stats.vercel.app/api?username=tonsatomicos&show_icons=true&theme=radical"/>
+   <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonsatomicos&langs_count=5&theme=radical&count_private=true&hide=html"/>
 </div>
