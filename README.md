@@ -19,7 +19,7 @@
 <div align="center">
 <H3>
    
-        Sinta-se Livre para Explorar !
+        Sinta-se Livre para Explorar!
 </H3>
 </div>
         
