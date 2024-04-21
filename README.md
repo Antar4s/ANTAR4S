@@ -2,7 +2,7 @@
 
 # Opa, eu sou o Lucas <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="30" height="30"/>
 
-<img align="right" width="210px" style="margin-top: -20px;" src="https://i0.wp.com/metagalaxia.com.br/wp-content/uploads/2021/07/Optimized-Kobayashi-san-Chi-no-Maid-Dragon-S.jpg?fit=640%2C360&ssl=1"/>
+<img align="right" width="205px" style="margin-top: -20px;" src="https://i0.wp.com/metagalaxia.com.br/wp-content/uploads/2021/07/Optimized-Kobayashi-san-Chi-no-Maid-Dragon-S.jpg?fit=640%2C360&ssl=1"/>
 
 <H3>
 :sunglasses: Atuando como Analista de Dados<br /> 
