@@ -18,3 +18,6 @@
  - Aqui você encontrará uns códigos e experiências com dados
 </H4>
 
+# Skills
+
+[![My Skills](https://skillicons.dev/icons?i=anaconda,docker,git,gitlab,postgres,python,terraform)](https://skillicons.dev)
