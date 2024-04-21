@@ -1,25 +1,8 @@
-<h3 align="center">
-    
-![Welcome](https://github.com/tonsatomicos/tonsatomicos/blob/master/Assets/TonsAtomicos.gif)    
-<!--[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/SuavementeLucas/) -->
-<!--[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Antar4s/) -->
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luquinhas/)
-<!--[![BI Badge](https://img.shields.io/badge/Portfólio_BI-yellow?style=for-the-badge&logo=powerbi&logoColor=white)](https://bit.ly/3NtTKMH)
-<!--[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Antar4s) -->
-</h3>
-
-<h3 align="center">
-E ai, meu nome é Lucas, mas você pode me chamar de Mesquita =)<br>
-Formado em ADS e cursando Pós em Engenharia de Dados, sou um Analista de Dados se virando nos 30.<br>
-Aqui você encontrará uns códigos e experiências com dados.<br> <br>
-    
-        Sinta-se Livre para Explorar !
-</h3>
-
-<hr>
-
+![image](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/dez5d9x-79cb89e0-a551-4731-82cd-399bbc6ea0c5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGV6NWQ5eC03OWNiODllMC1hNTUxLTQ3MzEtODJjZC0zOTliYmM2ZWEwYzUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.F3BLEOSDxCVgRlKV6n0ureGuMiFeHbMtV5bN-SGVQRc)
 
 <div align="center">
-    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tonsatomicos&show_icons=true&theme=synthwave"/>
-    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonsatomicos&langs_count=5&theme=synthwave&count_private=true&hide=html"/> 
+   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tonsatomicos&show_icons=true&theme=synthwave"/>
+    
+   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonsatomicos&langs_count=5&theme=synthwave&count_private=true&hide=html"/>
 </div>
+
