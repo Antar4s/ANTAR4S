@@ -9,10 +9,10 @@
 
 <img align="right" width="250px" style="margin-top:-20px" src="https://i0.wp.com/metagalaxia.com.br/wp-content/uploads/2021/07/Optimized-Kobayashi-san-Chi-no-Maid-Dragon-S.jpg?fit=640%2C360&ssl=1" style="max-width: 90; height: auto;"/>
 
+<H4>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="20" height="20"/> Atuando como Analista de Dados<br/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Mage%20Light%20Skin%20Tone.png" alt="Man Mage Light Skin Tone" width="20" height="20"/> Mago SQL: Especialista em Erros Sistêmicos<br />
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="20" height="20"/> Formado em ADS<br/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gloves.png" alt="Gloves" width="20" height="20"/> Cursando Pós em Engenharia de Dados<br/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Alembic.png" alt="Alembic" width="20" height="20"/> Aqui você encontrará uns códigos e experiências com dados<br/>
-
-
+</H4>
