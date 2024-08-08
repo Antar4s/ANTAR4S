@@ -22,8 +22,3 @@
         Sinta-se Livre para Explorar!
 </H3>
 </div>
-        
-<div align="center">
-   <img height="196em" src="https://github-readme-stats.vercel.app/api?username=tonsatomicos&show_icons=true&theme=radical"/>
-   <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonsatomicos&langs_count=5&theme=radical&count_private=true&hide=html"/>
-</div>
